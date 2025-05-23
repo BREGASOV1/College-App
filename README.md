@@ -2,6 +2,8 @@ College-App Description:
 
 > An app for Colleges with usefull features and easy to use, it can help you manage your business and save your time by organaizing your data.
 
+
+
 **Features**:
 
 . You can add students and specifiy their class, course, teacher name and preferred days.
@@ -25,6 +27,10 @@ College-App Description:
 . There are Context Menus, where you can navigate faster in the app.
 
 
+
+
+
+
 Used Technology and Concepts:
 
 . I used C# and WindowsForm in .NetFrameWork.
@@ -34,6 +40,12 @@ Used Technology and Concepts:
 . There is no OOP used.
 
 . There is no Databases or File uses.
+
+
+
+
+
+
 
 Futures Improvements:
 
@@ -47,6 +59,9 @@ Futures Improvements:
 . I will Improve UI.
 
 . I will implement algorithms may be useful to Intersect students and teachers courses dates.
+
+
+
 
 Note:
 

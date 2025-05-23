@@ -2,7 +2,7 @@ College-App Description:
 
 > An app for Colleges with usefull features and easy to use, it can help you manage your business and save your time by organaizing your data.
 
-Features:
+**Features**:
 
 . You can add students and specifiy their class, course, teacher name and preferred days.
 
